@@ -1,1 +1,2 @@
-# In this application I implemented database relations between entities.
+# Library management API
+Implemented database relations between entities.
